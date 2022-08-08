@@ -1,0 +1,10 @@
+# Names of input or output files
+font.ttf
+recording.tmcpr
+replaydata.json
+timelines.json
+renderQueue.json
+result.txt
+result.json
+input.mp4
+output.mp4
